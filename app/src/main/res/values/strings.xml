@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BluetoothConnection</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="find_bluetooth">Find Bluetooth</string>
+    <string name="led_on">Led On</string>
+    <string name="led_off">Led Off</string>
+    <string name="connection_on">Connection On</string>
+    <string name="connection_off">Connection Off</string>
+</resources>
